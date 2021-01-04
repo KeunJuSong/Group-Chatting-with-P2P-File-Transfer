@@ -5,7 +5,7 @@
 * JeJung Byun
 
 ## **Organization**
-* Korea Polytechnic University, Team Project in Embedded OS course
+* Korea Polytechnic University, Team Project in Embedded OS course (Prof. SuMin Kim)
 
 ## **Overview**
 * This project is socket programming using TCP/IP transport protocol.
