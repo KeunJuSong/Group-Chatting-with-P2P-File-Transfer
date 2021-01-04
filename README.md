@@ -10,7 +10,6 @@
 ## **Overview**
 * This project is socket programming using TCP/IP transport protocol.
 * Project's main point is building network model : server - client#1 & client#2
-* see **Summary of Projects** for more details each part
 
 ## **Summary of Project**
 * Below three parts of project are process of connection.
