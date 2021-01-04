@@ -26,3 +26,15 @@
 * putty - Ubuntu Server (Linux)
 * WinSCP 
 * Vim - Development tool (For C programming)
+
+## **Reference**
+* Socket Programming
+  * http://beej.us/guide/bgnet/
+  * http://www.stanford.edu/class/cs244a/socket-links.html
+  * http://www.tenouk.com/cnlinuxsockettutorials.html
+
+* Linux/Unix Programming Environment
+  * http://www.unix-ag.uni-siegen.de/docs/unix/unix.html
+
+* Vi Editor
+  * http://www.cs.rit.edu/~cslab/vi.html
